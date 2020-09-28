@@ -1,0 +1,105 @@
+*{
+    scroll-behavior: smooth;
+}
+
+.btnok{
+    text-decoration:none;
+    color: black;
+    
+}
+
+.btnok:hover{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.titulo{
+    padding-top: 80px;
+    color: #FFFFFF;
+    font-size: 90px;
+}
+
+.subtitulo{
+    color: #FFFFFF;
+    font-size: 35px;
+    padding-top: 60px;
+}
+
+.descricao{
+    font-size: 20px;
+    color: #FFFFFF;
+
+}
+
+.alinhar{
+    text-align: center;
+}
+
+
+.btnquero{
+    border-radius: 30px;
+    width: 230px;
+    height: 55px;
+    
+}
+
+.btnproposta{
+    border-radius: 30px;
+    width: 300px;
+    height: 55px;
+    margin: 25px;
+    font-size: 18px;
+}
+
+
+.menu{
+    text-align: center;
+    padding: 5px;
+    background-color: #28A745;
+    border-radius: 30px;
+    width: 150px;
+    margin: 5px;
+}
+
+li a:hover{
+    background-color: #007BFF;  
+}
+
+.textojustificado{
+    text-align: justify;
+}
+
+.esquerdo{
+    text-align: left;
+}
+
+.p-top{
+    padding-top: 100px;
+}
+
+.nomes{
+    color: #284053;
+    font-weight: bold;
+}
+
+.descricao{
+    color: #000000;
+}
+
+.p-bot{
+    padding-bottom: 50px;
+}
+
+label{
+    color: #FFFFFF;
+}
+
+.width{
+    width: 50%;
+}
+
+.footer{
+    background-color: #ffffff;
+    margin-top: 90px;
+}
+
